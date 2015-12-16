@@ -1,5 +1,5 @@
 {
-    "name": "MoreMeg/DB",
+    "name": "moremeg/DB",
     "type": "library",
     "description": "PDO Wrapper class",
     "keywords": ["pdo","db"],
